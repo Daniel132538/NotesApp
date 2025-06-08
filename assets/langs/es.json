@@ -1,6 +1,15 @@
 {
-    "appTitle": "Aplicación de Ejemplo",
-    "add_group": "Añadir Grupo",
-    "home_title": "Notas de Grupo",
-    "new_group_hint": "Nombra tu grupo"
+    "app_title": "Aplicación de Ejemplo",
+    "home_title": "Inicio",
+    "new_group_hint": "Nombra tu grupo",
+    "new_group": "Nuevo Grupo",
+    "new_folder": "Nueva Carpeta",
+    "enter_name": "Introduce un nombre",
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "create_folder": "Crear Carpeta",
+    "create_group": "Crear Grupo",
+    "chat_title": "Chat",
+    "send": "Enviar",
+    "write_message": "Escribe un mensaje"
 }

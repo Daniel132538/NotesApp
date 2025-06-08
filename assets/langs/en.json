@@ -1,6 +1,15 @@
 {
-    "appTitle": "Sample App",
-    "add_group": "Add Group",
-    "home_title": "Group Notes",
-    "new_group_hint": "Name your group"
+    "app_title": "Sample App",
+    "home_title": "Home",
+    "new_group_hint": "Name your group",
+    "new_group": "New Group",
+    "new_folder": "New Folder",
+    "enter_name": "Enter Name",
+    "create": "Create",
+    "cancel": "Cancel",
+    "create_folder": "Create Folder",
+    "create_group": "Create Group",
+    "chat_title": "Chat",
+    "send": "Send",
+    "write_message": "Write a message"
 }
